@@ -1,0 +1,6 @@
+framework module Pods_TODOManagerTests {
+  umbrella header "Pods-TODOManagerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
